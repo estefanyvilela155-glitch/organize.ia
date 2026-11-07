@@ -66,3 +66,9 @@ Também permitiu compreender a importância de criar soluções que considerem o
 📌 Status
 
 Protótipo experimental em desenvolvimento, criado como projeto independente de aprendizagem e experimentação com Inteligência Artificial.
+
+## 🔗 Acesse o projeto
+
+**Protótipo:** [OrganizaIA – Assistente de produtividade](https://organiza-tempo-inteligente.lovable.app)
+
+O protótipo permite conhecer a proposta e experimentar a organização de tarefas com base no tempo disponível.
